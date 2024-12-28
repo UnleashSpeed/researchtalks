@@ -1,73 +1,20 @@
-# Forum Website
+# FORUM
 
-This is a forum web application where users can post queries and receive answers. The application includes features for social login and tutorial sections to help users navigate the platform.
+Hi! my project includes a landing page design created solely using HTML, CSS, and JavaScript. This project is an endeavor focused on coding the design and serves as an example that won't be used as a functional web application.
 
-## Features
+## Design features
 
-- User authentication with social login options
-- Ability to post queries and receive answers
-- Tutorial section for user guidance
-- Responsive design for optimal viewing on various devices
+-   The design was crafted to reflect a modern and next-generation aesthetic.
+-   It embraces a minimalist approach, allowing users to concentrate on key information.
+-   The page is not yet fully equipped with responsiveness features, but it serves as a starting point to further develop.
 
-## Project Structure
 
-```
-forum-website
-├── public
-│   ├── index.html          # Main HTML document
-│   └── styles
-│       └── main.css       # CSS styles for the application
-├── src
-│   ├── components
-│   │   ├── Header.js      # Navigation bar component
-│   │   ├── Footer.js      # Footer component
-│   │   └── Post.js        # Component for displaying individual posts
-│   ├── pages
-│   │   ├── Home.js        # Landing page component
-│   │   ├── Login.js       # Login page component
-│   │   ├── Register.js    # Registration page component
-│   │   ├── Tutorial.js     # Tutorial page component
-│   │   └── Query.js       # Component for displaying specific queries
-│   ├── services
-│   │   └── authService.js  # Authentication service
-│   ├── utils
-│   │   └── api.js         # Utility functions for API calls
-│   └── App.js             # Main application component
-├── package.json            # npm configuration file
-├── .babelrc               # Babel configuration
-├── .eslintrc.json         # ESLint configuration
-├── .gitignore              # Git ignore file
-└── README.md              # Project documentation
-```
+The project aims to provide an example of design to the open-source community. You can adapt or enhance this design for your own projects.
 
-## Installation
+Please remember to obtain permission from the original owner before using the design itself, and keep in mind that this project is for demonstration purposes only. Don't forget to test the project on various browsers and devices and make necessary adjustments to address any compatibility issues.
 
-1. Clone the repository:
-   ```
-   git clone <repository-url>
-   ```
-2. Navigate to the project directory:
-   ```
-   cd forum-website
-   ```
-3. Install the dependencies:
-   ```
-   npm install
-   ```
+Designer: https://dribbble.com/wesleyryan
 
-## Usage
+The purpose of this project is to inspire new projects by bringing together design and coding skills and to offer the beauty of design to those who enjoy coding.
 
-To start the development server, run:
-```
-npm start
-```
-
-Visit `http://localhost:3000` in your browser to view the application.
-
-## Contributing
-
-Contributions are welcome! Please open an issue or submit a pull request for any enhancements or bug fixes.
-
-## License
-
-This project is licensed under the MIT License.
+![enter image description here](https://cdn.dribbble.com/users/2054799/screenshots/15102149/media/df9428a6ee7f685bb2609050eaeba49a.png?resize=1000x750&vertical=center)
